@@ -1,1 +1,1 @@
-# DataSets utilizados en esta prática
+# DataSets utilizados en esta práctica
