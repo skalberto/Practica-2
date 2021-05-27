@@ -1,2 +1,2 @@
-# Practica-2
+# Práctica-2
 Mi trabajo sobre Limpieza y Análisis de los datos
